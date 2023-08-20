@@ -1,5 +1,5 @@
 # TesfaLetnsaene
-Virtual classroom for teachers to create content and for and students to take lessons and track their progress and results.
+Virtual classroom for teachers to create content and for students to take lessons and track their progress and results.
 
 This software is designed to create a virtual classroom environment for less fortunate students and teachers. It allows the teacher to create content for students in a certain grade and also provides functionality to create homeworks, assignments, quizs and greade reports.
 
